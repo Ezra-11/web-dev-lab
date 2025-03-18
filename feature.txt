@@ -1,0 +1,13 @@
+    Since I already knew that when you are working with git and github, you often move data between the working directory and the remote directory (on github). this is usually done as follows:
+    1. Moving data (files) from the working directory to the stagging Area you use the "git add ." command ton add all untracked files.
+    2. Moving data (files) form the Staging Area to the Local Repository you use the "git commit" command
+    3. Moving data from the local repository to the remote repository you use the "git push" command
+    4 Moving data from the remote repository to the working directory you use the "git pull" command
+    I was Knew how to Authenticate with SSH key and clone an existing repository into your local machine.
+
+
+    WHAT I HAVE LEARNED FROM THIS LAB
+    From this lab i have learnt:
+    1. How to create and merge a branch
+    2. How to Fork some else's Repository and Modify into
+    3. How to Make a pull Request
